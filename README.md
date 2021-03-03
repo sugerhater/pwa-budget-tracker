@@ -18,8 +18,8 @@ To run on local:
   - Open your browser and to go `http://localhost:3000`
 
 ## Links
-[Github](https://github.com/sugerhater/pwa-budget-tracker)
-[Heroku Link](https://kehong-pwa-budgetracker.herokuapp.com/)
+  - [Github](https://github.com/sugerhater/pwa-budget-tracker)
+  - [Heroku Link](https://kehong-pwa-budgetracker.herokuapp.com/)
 
 
 ## Questions
