@@ -10,6 +10,8 @@
 ## Description
 The PWA Budget Tracker application allows users to install it as a PWA. If users use it offline, the app will send all the data to the server when users connect to the Internet again.The app is deployed through [Heroku](www.heroku.com/) with MongoDB Atlas.
 
+![homework18](https://user-images.githubusercontent.com/71996574/109755927-e61e3080-7bb4-11eb-8992-6720a12d2059.gif)
+
 ## Installation & Usage
 To run on local:
   - Download or clone repository
